@@ -1,4 +1,4 @@
-# Tasktree
+# TaskTree
 
 This is a web application made in React. In reality, our tasks are often complex and non-linear. This app allows you to organize your goals and tasks in a graph/tree structure. The graph reorganizes itself as you add more tasks. You can describe an abstract goal to the AI assistant, which will then break down the goal into actionable tasks and automatically create them.
 
